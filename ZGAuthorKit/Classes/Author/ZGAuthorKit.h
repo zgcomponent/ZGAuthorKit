@@ -17,5 +17,6 @@
 #import <ZGToolsKit/ZGToolsKit-umbrella.h>
 #import <ZGCategoryKit/ZGCategoryKit-umbrella.h>
 #import <ZGMainViewKit/ZGMainViewKit-umbrella.h>
+#import "FFAuthorListReformerKeys.h"
 
 #endif /* ZGAuthorKit_h */

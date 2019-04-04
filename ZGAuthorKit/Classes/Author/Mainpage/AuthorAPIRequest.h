@@ -6,7 +6,8 @@
 //  Copyright © 2017年 Triangle. All rights reserved.
 //
 
-#import "APIRequest.h"
+#import "ZGAuthorKit.h"
+//#import "APIRequest.h"
 
 @interface AuthorAPIRequest : APIRequest<APIRequestProtocol>
 
