@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZGAuthorKit_Example' do
+  pod 'ZGAuthorKit', :path => '../'
+
+  target 'ZGAuthorKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
